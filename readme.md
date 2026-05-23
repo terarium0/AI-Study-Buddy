@@ -17,3 +17,6 @@ AI assistant untuk membantu siswa memahami materi PDF secara otomatis.
 ## How To Run
 pip install -r requirements.txt
 streamlit run app.py
+
+##Demo
+https://ai-study-buddy-kgca6tj4ikaq7xtaw327tm.streamlit.app/
